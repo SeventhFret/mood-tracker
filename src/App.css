@@ -1,0 +1,21 @@
+#root {
+  margin: 0 auto;
+  background-color: #494F55;
+  width: 100vw;
+  height: 100vh;
+}
+
+.main-wrapper {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+}
+
+.main-content {
+  width: 85vw;
+  height: 100%;
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+}
